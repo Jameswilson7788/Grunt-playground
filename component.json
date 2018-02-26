@@ -1,0 +1,12 @@
+{
+    "name": "scorpion",
+    "version": "0.0.1",
+    "dependencies": {
+        "component/emitter": "*"
+    },
+    "scripts": [
+        "src/main.js"
+    ],
+
+    "main": "src/main.js"
+}

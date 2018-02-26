@@ -1,1 +1,3 @@
-module.exports = 123
+module.exports = function(){
+    return 123;
+}
