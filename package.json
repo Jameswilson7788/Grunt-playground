@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/Jameswilson7788/Grunt-playground#readme",
   "dependencies": {
+    "grunt-component-build": "^0.5.3",
     "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-contrib-uglify": "~0.5.0"
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha": "^1.0.4"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
